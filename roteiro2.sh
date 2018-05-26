@@ -1,9 +1,3 @@
-Referencias
-
-http://www.odooerpnews.com.br/2016/11/11/instalar-o-odoo-10/
-https://github.com/Trust-Code/Tutorial-Instalacao
-http://cleber95.wixsite.com/cleberianes/single-post/2017/03/13/Instalar-o-ERP-Odoo-10-no-Ubuntu-Server
-https://odoobrasil.wordpress.com/2016/10/31/instalando-odoo-erp-localizacao-brasileira-linux/
 
 
 odoo 10 br OCA - TrustCode
